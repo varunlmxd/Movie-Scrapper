@@ -9,4 +9,5 @@ pip install beautifulsoup4
 ## Run the main file
 ```
 python main.py
+>>> Enter movie name: 
 ```
